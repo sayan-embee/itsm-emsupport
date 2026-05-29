@@ -1,0 +1,63 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.19/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.19",
+  "version": "1.0.1",
+  "id": "52a9590a-81f0-4dad-b6e2-447e56b15e9e",
+  "developer": {
+    "name": "Embee",
+    "websiteUrl": "https://embee.co.in",
+    "privacyUrl": "https://embee.co.in/embee-privacypolicy",
+    "termsOfUseUrl": "https://embee.co.in/virtuaplace/embee-terms-and-conditions",
+    "mpnId": "1178358"
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "name": {
+    "short": "EmSupport",
+    "full": "AI EmSupport"
+  },
+  "description": {
+    "short": "AI EmSupport",
+    "full": "EmSupport is a professional tool tailored for efficient SOP retrieval. It leverages advanced search algorithms to deliver accurate results, making it an indispensable resource for professionals seeking self-help through SOPs."
+  },
+  "accentColor": "#FFFFFF",
+  "bots": [
+    {
+      "botId": "7823cfe2-cf08-431e-9860-20487c6067cb",
+      "scopes": [
+        "personal"
+      ],
+      "supportsFiles": false,
+      "isNotificationOnly": false
+    }
+  ],
+  "staticTabs": [
+    {
+      "entityId": "emSupportTab",
+      "name": "EmSupport",
+      "contentUrl": "https://emsupport.embee.co.in/TeamsApp/home",
+      "websiteUrl": "https://emsupport.embee.co.in/TeamsApp/home",
+      "scopes": [
+        "personal"
+      ],
+      "context": [
+        "personalTab"
+      ]
+    }
+  ],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "token.botframework.com",
+    "emsupport.embee.co.in"
+  ],
+  "showLoadingIndicator": true,
+  "webApplicationInfo": {
+    "id": "7823cfe2-cf08-431e-9860-20487c6067cb",
+    "resource": "api://emsupport.embee.co.in/TeamsApp/7823cfe2-cf08-431e-9860-20487c6067cb"
+  }
+}

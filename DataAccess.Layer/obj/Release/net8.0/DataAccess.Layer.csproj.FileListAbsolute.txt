@@ -1,0 +1,16 @@
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\bin\Release\net8.0\DataAccess.Layer.deps.json
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\bin\Release\net8.0\DataAccess.Layer.dll
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\bin\Release\net8.0\DataAccess.Layer.pdb
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\bin\Release\net8.0\Common.Layer.dll
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\bin\Release\net8.0\Common.Layer.pdb
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\obj\Release\net8.0\DataAccess.Layer.csproj.AssemblyReference.cache
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\obj\Release\net8.0\DataAccess.Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\obj\Release\net8.0\DataAccess.Layer.AssemblyInfoInputs.cache
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\obj\Release\net8.0\DataAccess.Layer.AssemblyInfo.cs
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\obj\Release\net8.0\DataAccess.Layer.csproj.CoreCompileInputs.cache
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\obj\Release\net8.0\DataAccess.Layer.sourcelink.json
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\obj\Release\net8.0\DataAcce.4E4B09C7.Up2Date
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\obj\Release\net8.0\DataAccess.Layer.dll
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\obj\Release\net8.0\refint\DataAccess.Layer.dll
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\obj\Release\net8.0\DataAccess.Layer.pdb
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\DataAccess.Layer\obj\Release\net8.0\ref\DataAccess.Layer.dll

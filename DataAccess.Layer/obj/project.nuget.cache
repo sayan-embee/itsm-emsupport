@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9zPYdVYsj0=",
+  "success": true,
+  "projectFilePath": "E:\\Company\\ITSM-EMSupport\\DataAccess.Layer\\DataAccess.Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\011873\\.nuget\\packages\\adaptivecards\\1.2.3\\adaptivecards.1.2.3.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\microsoft.applicationinsights\\2.20.0\\microsoft.applicationinsights.2.20.0.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\microsoft.bot.schema\\4.22.7\\microsoft.bot.schema.4.22.7.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.22\\microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\011873\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

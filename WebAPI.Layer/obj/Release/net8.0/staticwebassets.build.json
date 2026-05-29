@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "xD0UJ4JIFf1LRPg7BQn6W1l6a04nFjbXsAOPb7UDR4U=",
+  "Source": "WebAPI.Layer",
+  "BasePath": "_content/WebAPI.Layer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI.Layer\\wwwroot",
+      "Source": "WebAPI.Layer",
+      "ContentRoot": "E:\\Company\\EMSupport ITSM\\Embee_ITSM_Automation\\WebAPI.Layer\\wwwroot\\",
+      "BasePath": "_content/WebAPI.Layer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Company\\EMSupport ITSM\\Embee_ITSM_Automation\\WebAPI.Layer\\wwwroot\\Templates\\HTML\\ApplicationLink.html",
+      "SourceId": "WebAPI.Layer",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Company\\EMSupport ITSM\\Embee_ITSM_Automation\\WebAPI.Layer\\wwwroot\\",
+      "BasePath": "_content/WebAPI.Layer",
+      "RelativePath": "Templates/HTML/ApplicationLink.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\HTML\\ApplicationLink.html"
+    },
+    {
+      "Identity": "E:\\Company\\EMSupport ITSM\\Embee_ITSM_Automation\\WebAPI.Layer\\wwwroot\\Templates\\HTML\\OTP.html",
+      "SourceId": "WebAPI.Layer",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Company\\EMSupport ITSM\\Embee_ITSM_Automation\\WebAPI.Layer\\wwwroot\\",
+      "BasePath": "_content/WebAPI.Layer",
+      "RelativePath": "Templates/HTML/OTP.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\HTML\\OTP.html"
+    },
+    {
+      "Identity": "E:\\Company\\EMSupport ITSM\\Embee_ITSM_Automation\\WebAPI.Layer\\wwwroot\\Templates\\HTML\\RegistrationSuccessful.html",
+      "SourceId": "WebAPI.Layer",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Company\\EMSupport ITSM\\Embee_ITSM_Automation\\WebAPI.Layer\\wwwroot\\",
+      "BasePath": "_content/WebAPI.Layer",
+      "RelativePath": "Templates/HTML/RegistrationSuccessful.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\HTML\\RegistrationSuccessful.html"
+    }
+  ]
+}

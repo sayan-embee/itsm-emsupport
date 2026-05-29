@@ -1,0 +1,4 @@
+SELECT COUNT(T.id),COUNT(TC.ticket_id) FROM FreshService_T_Tickets T
+LEFT JOIN FreshService_T_Ticket_CustomFields TC ON T.id = TC.ticket_id
+WHERE CAST(SWITCHOFFSET(CAST(T.created_at AS DATETIMEOFFSET), '+05:30') AS DATE) 
+BETWEEN CONVERT(DATE, '27/05/2025', 103) AND CONVERT(DATE, '27/05/2025', 103)

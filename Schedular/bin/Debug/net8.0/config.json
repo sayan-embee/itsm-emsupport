@@ -1,0 +1,60 @@
+{
+  "EndPointBaseUrl": "http://localhost:36189",
+  "API_Key": "40025788865f4c24aa8f24c11207deed",
+  "AppConfig": {
+    "FreshService": {
+      "domainUrl": "https://embee.freshservice.com/api/v2",
+      "apiKey": "4fOaien4ba3RTtwQY4E0",
+      "Tickets": {
+        "Paging": true,
+        "PageRowIndex": 1,
+        "PageSize": 25,
+        "NoOfBackDays": 1,
+        "SaveToDB": true,
+        //soumik rev start
+        "SpesificDate": "",
+        "NoOfBackSpesificDate": 5,
+        //soumik rev end
+        "SyncDays": 2
+      },
+      "Requesters": {
+        "Paging": true,
+        "AllRecords": true,
+        "PageRowIndex": 1,
+        "PageSize": 25,
+        "NoOfBackDays": 1,
+        "SaveToDB": false
+      },
+      "Changes": {
+        "Paging": true,
+        "PageRowIndex": 1,
+        "PageSize": 25,
+        "NoOfBackDays": 1,
+        "SaveToDB": false
+      },
+      "Problem": {
+        "Paging": true,
+        "PageRowIndex": 1,
+        "PageSize": 25,
+        "NoOfBackDays": 1,
+        "SaveToDB": false
+      }
+    },
+    "Site24x7": {
+      "accessTokenDomainUrl": "https://accounts.zoho.in",
+      "apiRootUrl": "https://www.site24x7.in",
+      "clientId": "1000.BYKSJHB61LIHUD6Q7664PZWXEHAQQS",
+      "PerformanceReport": {
+        "NoOfBackDays": 1,
+        //soumik rev
+        "NoOfBackMonth": 2
+        //soumik rev
+      }
+    }
+  },
+  "ConnectionStrings": {
+    //"Default": "Data Source=DIPAYANDAS01204\\SQLEXPRESS;Initial Catalog=AI-Portal-Apps;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=360;Encrypt=False;TrustServerCertificate=False"
+    "Default": "server=192.168.50.252;database=ITMS_Automation;uid=sa;pwd=Embee$1234;persist security info=false; max pool size=5000;connect timeout=360;"
+
+  }
+}

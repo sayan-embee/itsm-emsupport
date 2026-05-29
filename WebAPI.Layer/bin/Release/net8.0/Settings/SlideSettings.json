@@ -1,0 +1,60 @@
+{
+  "SlideHeadingText": {
+    "C000": "Monthly MSD Review",
+    "C001": "Closed Ticket Analysis Report",
+    "C002": "Ticket Details Response Status",
+    "C003": "Ticket Details Resolution Status",
+    "C004": "SLA Not Met Ticket Details - Incident",
+    "C005": "SLA Not Met Ticket Details - Service Request",
+    "C006": "Open Ticket Details",
+    "C007": "Category Wise Call Bifurcation",
+    "C008": "Priority Wise Ticket Bifurcation",
+    "C009": "Ticket Analysis Report for Last 3 Months",
+    "C010": "Category Wise Ticket Analysis Report for Last 3 Months",
+    "C011": "Azure VM’s CPU Utilization Report",
+    "C012": "Azure VM’s Memory Utilization Report",
+    "C013": "Azure VM’s Disk Utilization Report",
+    "C014": "Server wise auto-ticket generation (Top - 20)",
+    "C015": "Service Request Ticket raised by User/Helpdesk"
+  },
+  "Config": {
+    "Heading": {
+      "FontColor": "10446F",
+      "FontSize": 20,
+      "IsBold": true,
+      "HasUnderline": false
+    },
+    "TableHeader": {
+      "BackgroundColor": "10446F",
+      "FontColor": "FFFFFF",
+      "FontSize": 10,
+      "IsBold": true,
+      "Height": 275000
+    },
+    "TableRows": {
+      "EvenBackgroundColor": "FFFFFF",
+      "OodBackgroundColor": "DCEAF7",
+      "FontColor": "10446F",
+      "FontSize": 10,
+      "Height": 175000,
+      "MaxCountPerTable": 20
+    },
+    "TableFooter": {
+      "BackgroundColor": "A6CAEC",
+      "FontColor": "10446F",
+      "FontSize": 10,
+      "IsBold": true,
+      "Height": 175000
+    },
+    "BarGraph": {
+      "ClosedTickets": {
+        "BackgroundColor": "#FFFFFF",
+        "BarColor": "#156082;#E97132;#196B24;#0F9ED5"
+      },
+      "Last3Months": {
+        "BackgroundColor": "#FFFFFF",
+        "BarColor": "#156082;#E97132;#196B24;#0F9ED5"
+      }
+    }
+  }
+}

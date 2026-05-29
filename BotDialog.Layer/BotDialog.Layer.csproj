@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Bot.Builder" Version="4.22.7" />
+    <PackageReference Include="Microsoft.Bot.Builder.Azure" Version="4.22.7" />
+    <PackageReference Include="Microsoft.Bot.Builder.Dialogs" Version="4.22.7" />
+    <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.22.7" />
+    <PackageReference Include="Microsoft.Bot.Connector" Version="4.22.7" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common.Layer\Common.Layer.csproj" />
+    <ProjectReference Include="..\DataAccess.Layer\DataAccess.Layer.csproj" />
+  </ItemGroup>
+
+</Project>

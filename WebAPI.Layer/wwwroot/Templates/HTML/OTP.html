@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Welcome to ITSM Automation Portal</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+</head>
+<body>
+    <div class="fluid-container">
+        <div class="small-container" style="max-width: 700px;margin:0 auto">
+            <table style="width:100%">
+                <tbody>
+                    <!--<tr>-->
+                    <!--  <td style="padding-bottom: 10px;">-->
+                    <!--    <img src="embee-logo.png" alt="logo" style="width: 120px;">-->
+                    <!--  </td>-->
+                    <!--</tr>-->
+                </tbody>
+            </table>
+            <table style="padding-bottom: 20px;">
+                <tbody>
+                    <tr>
+                        <td>
+                            <!-- Placeholder for recipient name -->
+                            <h4 style="padding-bottom: 20px; margin: 0; font-size: 20px;font-family: Segoe UI, sans-serif;">Dear {{RecipientName}},</h4>
+                            <p style="padding-bottom: 5px; margin: 0; font-size: 14px;font-family: Segoe UI, sans-serif;color: #2C2C2C;"> Use the following one-time password (OTP) to sign in to your account. </p>
+                            <p style="padding-bottom: 5px; margin: 0; font-size: 14px;font-family: Segoe UI, sans-serif;color: #2C2C2C;">
+                                <!-- Placeholder for OTP expiry details --> This OTP will be valid till <strong>{{OTPExpiryDateTime}}</strong>.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <!-- Placeholder for OTP code -->
+                            <p style="padding-top: 10px; padding-bottom: 20px; margin: 0; font-size: 26px; font-weight: 600; font-family: Segoe UI, sans-serif;">
+                                {{OTPCode}}
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p style="padding-top: 0px; padding-bottom: 20px; margin: 0; font-size: 14px; font-family: Segoe UI, sans-serif;color: #2C2C2C;">
+                                If you didn't initiate this action, please contact <a href="mailto:ddev127001@gmail.com" style="color: #005aff; text-decoration: none;"> ddev127001@gmail.com</a>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p style="padding-bottom: 5px; margin: 0; font-size: 14px;font-family: Segoe UI, sans-serif;color: #2C2C2C;"> Regards, </p>
+                            <p style="padding-bottom: 5px; margin: 0; font-size: 14px; font-weight: 600; font-family: Segoe UI, sans-serif;color: #2C2C2C;"> Embee Team</p>
+                            <p style="padding-bottom: 5px; margin: 0; font-size: 14px;font-family: Segoe UI, sans-serif;color: #2C2C2C;">
+                                <a href="https://embee.co.in/" style="color: #005aff; text-decoration: none;">https://embee.co.in/</a>
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

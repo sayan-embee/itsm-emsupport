@@ -1,0 +1,30 @@
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\bin\Debug\net8.0\Common.Layer.deps.json
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\bin\Debug\net8.0\Common.Layer.dll
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\bin\Debug\net8.0\Common.Layer.pdb
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\Common.Layer.csproj.AssemblyReference.cache
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\Common.Layer.Resources.Strings.resources
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\Common.Layer.csproj.GenerateResource.cache
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\Common.Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\Common.Layer.AssemblyInfoInputs.cache
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\Common.Layer.AssemblyInfo.cs
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\Common.Layer.csproj.CoreCompileInputs.cache
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\Common.Layer.sourcelink.json
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\Common.Layer.dll
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\refint\Common.Layer.dll
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\Common.Layer.pdb
+E:\Company\EMSupport ITSM\Embee_ITSM_Automation\Common.Layer\obj\Debug\net8.0\ref\Common.Layer.dll
+E:\Company\ITSM-EMSupport\Common.Layer\bin\Debug\net8.0\Common.Layer.deps.json
+E:\Company\ITSM-EMSupport\Common.Layer\bin\Debug\net8.0\Common.Layer.dll
+E:\Company\ITSM-EMSupport\Common.Layer\bin\Debug\net8.0\Common.Layer.pdb
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\Common.Layer.csproj.AssemblyReference.cache
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\Common.Layer.Resources.Strings.resources
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\Common.Layer.csproj.GenerateResource.cache
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\Common.Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\Common.Layer.AssemblyInfoInputs.cache
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\Common.Layer.AssemblyInfo.cs
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\Common.Layer.csproj.CoreCompileInputs.cache
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\Common.Layer.sourcelink.json
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\Common.Layer.dll
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\refint\Common.Layer.dll
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\Common.Layer.pdb
+E:\Company\ITSM-EMSupport\Common.Layer\obj\Debug\net8.0\ref\Common.Layer.dll

@@ -1,0 +1,15 @@
+[
+    {
+        "slNo": 1,
+        "version": "1.0",
+        "enableOverlay": true,
+        "releasedOn_header": "Released On:",
+        "releasedOn": "07/04/2025",
+        "notes_header": "What's New:",
+        "notes": [
+            "Ticket counts on dashboard.",
+            "Tickets list with export to Excel feature.",
+            "AI powered chatbot for support."
+        ]
+    }
+]

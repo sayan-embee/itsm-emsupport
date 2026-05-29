@@ -1,0 +1,39 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AppConfig": {
+    "FreshService": {
+      "domainUrl": "https://embee.freshservice.com/api/v2",
+      "apiKey": "4fOaien4ba3RTtwQY4E0"
+    },
+    "Site24x7": {
+      "accessTokenDomainUrl": "https://accounts.zoho.in",
+      "apiRootUrl": "https://www.site24x7.in",
+      "clientId": "1000.BYKSJHB61LIHUD6Q7664PZWXEHAQQS"
+    },
+    "API_Key": "40025788865f4c24aa8f24c11207deed",
+    "AppDomainUrl": "https://emsupport.embee.co.in/WebApi",
+    "SMTPConfig": {
+      "Server": "smtp.office365.com",
+      "Port": "587",
+      "UserId": "EmSupport@embee.co.in",
+      "UserMail": "EmSupport@embee.co.in",
+      "DisplayName": "AI EmSupport",
+      "Pass": "F#678147472338op",
+      "EnableSSL": true,
+      "IsCredRequired": true
+    },
+    "EmailSubjectConfig": {
+      "ContractMasterCreated": "EmSupport - New contract has been created Successfully",
+      "SignInOTPVerification": "EmSupport - Login OTP"
+    },
+    "UtcOffset": "05:30"
+  },
+  "ConnectionStrings": {
+    "Default": "server=10.180.1.22;database=AI-Portal-Apps;uid=AIPortalAppUser;pwd=Espl#1234@#;persist security info=false; max pool size=5000;connect timeout=360;"
+  }
+}

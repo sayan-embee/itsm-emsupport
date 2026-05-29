@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "WebAPI.Layer\\WebAPI.Layer.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Name": "External.CustomerPortal.Layer\\External.CustomerPortal.Layer.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "Internal.TeamsBot.Layer\\Internal.TeamsBot.Layer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

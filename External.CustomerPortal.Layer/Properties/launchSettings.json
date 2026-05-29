@@ -1,0 +1,52 @@
+{
+	"profiles": {
+		"Microsoft Teams (browser)": {
+			"commandName": "Project",
+			"launchBrowser": true,
+			"launchUrl": "https://teams.microsoft.com/l/app/408214a4-0c61-4185-9d97-8c4bb1517060?installAppPackage=true&webjoin=true&appTenantId=393659ac-9e93-44c0-988e-8f938589a9e7&login_hint=initiator@ESPLSPD.onmicrosoft.com",
+			"environmentVariables": {
+				"ASPNETCORE_ENVIRONMENT": "Development"
+			},
+			"dotnetRunMessages": true,
+			"applicationUrl": "http://localhost:5131",
+			"hotReloadProfile": "aspnetcore"
+		},
+		"Teams App Test Tool (browser)": {
+			"commandName": "Project",
+			"launchBrowser": true,
+			"launchUrl": "http://localhost:5131",
+			"environmentVariables": {
+				"ASPNETCORE_ENVIRONMENT": "TestTool",
+				"TEAMSFX_NOTIFICATION_STORE_FILENAME": ".notification.testtoolstore.json"
+			},
+			"dotnetRunMessages": true,
+			"launchTestTool": true,
+			"applicationUrl": "http://localhost:5131",
+			"hotReloadProfile": "aspnetcore"
+		},
+		"http": {
+			"commandName": "Project",
+			"launchBrowser": true,
+			"environmentVariables": {
+				"ASPNETCORE_ENVIRONMENT": "Development"
+			},
+			"dotnetRunMessages": true,
+			"applicationUrl": "http://localhost:5131"
+		},
+		"IIS Express": {
+			"commandName": "IISExpress",
+			"launchBrowser": true,
+			"environmentVariables": {
+				"ASPNETCORE_ENVIRONMENT": "Development"
+			}
+		}
+	},
+	"iisSettings": {
+		"windowsAuthentication": false,
+		"anonymousAuthentication": true,
+		"iisExpress": {
+			"applicationUrl": "http://localhost:5131",
+			"sslPort": 5131
+		}
+	}
+}

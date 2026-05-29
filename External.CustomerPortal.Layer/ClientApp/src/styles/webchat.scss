@@ -1,0 +1,19 @@
+/* Customize font size for bot messages */
+.webchat__bubble__content {
+    font-size: 10px !important;
+}
+
+/* Customize font size for user messages */
+.webchat__bubble--from-user .webchat__bubble__content {
+    font-size: 10px !important;
+}
+
+/* Customize font size for timestamps */
+.webchat__timestamp {
+    font-size: 10px !important;
+}
+
+/* Customize font size for suggested actions */
+.webchat__suggested-actions {
+    font-size: 10px !important;
+}

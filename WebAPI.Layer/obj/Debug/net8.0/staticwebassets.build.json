@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "ffDlbyhd62vM02g9jKKnRkktxR21QE5RffDea8OrBys=",
+  "Source": "WebAPI.Layer",
+  "BasePath": "_content/WebAPI.Layer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI.Layer\\wwwroot",
+      "Source": "WebAPI.Layer",
+      "ContentRoot": "E:\\Company\\ITSM-EMSupport\\WebAPI.Layer\\wwwroot\\",
+      "BasePath": "_content/WebAPI.Layer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Company\\ITSM-EMSupport\\WebAPI.Layer\\wwwroot\\Templates\\HTML\\ApplicationLink.html",
+      "SourceId": "WebAPI.Layer",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Company\\ITSM-EMSupport\\WebAPI.Layer\\wwwroot\\",
+      "BasePath": "_content/WebAPI.Layer",
+      "RelativePath": "Templates/HTML/ApplicationLink.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\HTML\\ApplicationLink.html"
+    },
+    {
+      "Identity": "E:\\Company\\ITSM-EMSupport\\WebAPI.Layer\\wwwroot\\Templates\\HTML\\OTP.html",
+      "SourceId": "WebAPI.Layer",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Company\\ITSM-EMSupport\\WebAPI.Layer\\wwwroot\\",
+      "BasePath": "_content/WebAPI.Layer",
+      "RelativePath": "Templates/HTML/OTP.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\HTML\\OTP.html"
+    },
+    {
+      "Identity": "E:\\Company\\ITSM-EMSupport\\WebAPI.Layer\\wwwroot\\Templates\\HTML\\RegistrationSuccessful.html",
+      "SourceId": "WebAPI.Layer",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Company\\ITSM-EMSupport\\WebAPI.Layer\\wwwroot\\",
+      "BasePath": "_content/WebAPI.Layer",
+      "RelativePath": "Templates/HTML/RegistrationSuccessful.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\HTML\\RegistrationSuccessful.html"
+    }
+  ]
+}

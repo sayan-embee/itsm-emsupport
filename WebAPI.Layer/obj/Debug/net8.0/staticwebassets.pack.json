@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Company\\ITSM-EMSupport\\WebAPI.Layer\\wwwroot\\Templates\\HTML\\ApplicationLink.html",
+      "PackagePath": "staticwebassets\\Templates\\HTML\\ApplicationLink.html"
+    },
+    {
+      "Id": "E:\\Company\\ITSM-EMSupport\\WebAPI.Layer\\wwwroot\\Templates\\HTML\\OTP.html",
+      "PackagePath": "staticwebassets\\Templates\\HTML\\OTP.html"
+    },
+    {
+      "Id": "E:\\Company\\ITSM-EMSupport\\WebAPI.Layer\\wwwroot\\Templates\\HTML\\RegistrationSuccessful.html",
+      "PackagePath": "staticwebassets\\Templates\\HTML\\RegistrationSuccessful.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAPI.Layer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebAPI.Layer.props",
+      "PackagePath": "build\\WebAPI.Layer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPI.Layer.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI.Layer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebAPI.Layer.props",
+      "PackagePath": "buildTransitive\\WebAPI.Layer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
